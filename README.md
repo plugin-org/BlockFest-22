@@ -21,7 +21,7 @@
 * [PLUGIN Development channel on Discord](https://discord.gg/4ATypYHudd) (👈Come here to get your questions answered)
 
 ## Introduction
-### Why Plugin Hackathon?
+### Why BlockFest-22 Hackathon?
 
 Plugin a Decentralized Oracle Network is conducting this hackathon to provide a unique opportunities for all the "doers" who has will to convert their dreams to reality. We welcome the participants to register the team and submit your ideas. This event is going to happen at (Auditorium: )Sathybhama Institute Of Science And Technology, (Deemed to be University) Jeppiaar Nagar, Rajiv Gandhi Salai, Chennai - 600 119. TamilNadu, INDIA. So why are you waiting for!, there is no constraints for you in this post pandemic era, but only constraints we have for you is, your idea should be on Blockchain & should leverage Plugin Oracle service.
 
