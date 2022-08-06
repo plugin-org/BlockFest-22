@@ -7,7 +7,7 @@
 ## Table of Contents
 * [Resources](#Resources)
 * [Introduction](#Introduction)
-    * [Why Plugin Hackathon](#Why-Plugin-Hackathon)
+    * [Why Plugin Hackathon](#Why-BlockFest-22-Hackathon)
 * [Bounties](#Bounties-for-Participants)
     * [Overview](#Bounty-Overview)
     * [Judgement Criteria](#Judgement-Criteria)
