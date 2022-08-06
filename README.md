@@ -16,9 +16,9 @@
 * [Dont's](#Dont's)
 
 ## Resources
-* [GOPLUGIN Website](https://www.goplugin.co/)
-* [GOPLUGIN DOCS](https://docs.goplugin.co/)
-* [GOPLUGIN Development channel on Discord](https://discord.gg/4ATypYHudd) (👈Come here to get your questions answered)
+* [PLUGIN Website](https://www.goplugin.co/)
+* [PLUGIN DOCS](https://docs.goplugin.co/)
+* [PLUGIN Development channel on Discord](https://discord.gg/4ATypYHudd) (👈Come here to get your questions answered)
 
 ## Introduction
 ### Why Plugin Hackathon?
