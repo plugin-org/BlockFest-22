@@ -2,7 +2,7 @@
 - 👀 Created to handle Plugin Hackathon
 - 🌱 Guidelines are below
 
-# GoPlugin Hackathon 
+# BlockFest-22 Hackathon 
 
 ## Table of Contents
 * [Resources](#Resources)
